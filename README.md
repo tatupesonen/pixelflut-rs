@@ -3,4 +3,4 @@ A [pixelflut](https://github.com/defnull/pixelflut/tree/master/pixelflut) server
 
 ## Todo
 - [ ] GUI  
-- [ ] - Multiline command handling  
+- [ ] Multiline command handling  
