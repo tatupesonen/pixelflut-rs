@@ -1,5 +1,5 @@
 # pixelflut-rs
-A [pixelflut](https://github.com/defnull/pixelflut/tree/master/pixelflut) server written in Rust.
+A [pixelflut](https://github.com/defnull/pixelflut) server written in Rust.
 
 ## Todo
 - [ ] GUI  
